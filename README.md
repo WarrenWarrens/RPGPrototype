@@ -1,2 +1,2 @@
 # NewGame
-Basic descriptioj
+Basic description
